@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Recent computer science graduate specializing in cybersecurity. I am interested in secure software development, cybersecurity, cyber defense and working to understand, detect, and reduce digital threats. I enjoy technical problems where code, system understanding, and security intersect.
 
 ## 🌐 Socials:
